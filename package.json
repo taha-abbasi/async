@@ -1,0 +1,22 @@
+{
+  "name": "async",
+  "version": "1.0.0",
+  "description": "Asynchronous JS Demo",
+  "main": "hello-async.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taha-abbasi/async.git"
+  },
+  "author": "Taha Abbasi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taha-abbasi/async/issues"
+  },
+  "homepage": "https://github.com/taha-abbasi/async#readme",
+  "dependencies": {
+    "request": "^2.60.0"
+  }
+}
